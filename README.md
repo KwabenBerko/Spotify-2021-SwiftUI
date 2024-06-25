@@ -1,4 +1,4 @@
-## SPOTIFY-2021-SWIFTUI
+## Spotify-2021-SwiftUI
 #### A 2021 Spotify UI Built With SwiftUI
 
 <div style="display: flex; flex-wrap: wrap;">
