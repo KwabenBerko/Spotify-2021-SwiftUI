@@ -15,7 +15,7 @@ struct AppView: View {
     
     var body: some View {
         Group {
-            if !isLoggedIn {
+            if isLoggedIn {
                 NavigationStack(path: $mainNavigator.path)  {
                     MainView()
                         .navigationDestination(for: MainDestination.self) { destination in
