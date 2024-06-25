@@ -276,6 +276,7 @@
 		13EE5B9B2B52E2A000D8C63D = {
 			isa = PBXGroup;
 			children = (
+				138C511D2B61C25D0095410A /* README.md */,
 				131FBB452C2A573F006354BA /* Screenshots */,
 				13EE5BA62B52E2A000D8C63D /* SpotifyUI */,
 				13EE5BA52B52E2A000D8C63D /* Products */,
@@ -303,7 +304,6 @@
 				13346E8F2B773D5A00E20B1F /* AppView.swift */,
 				13EE5BAB2B52E2A100D8C63D /* Assets.xcassets */,
 				13EE5BAD2B52E2A100D8C63D /* Preview Content */,
-				138C511D2B61C25D0095410A /* README.md */,
 				13346E6E2B757B1400E20B1F /* Navigator.swift */,
 				132AC56D2BB7CF37001657F3 /* Localizable.xcstrings */,
 			);
